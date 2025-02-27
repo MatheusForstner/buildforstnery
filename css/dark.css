@@ -1,0 +1,22 @@
+.dark-mode {
+    background: linear-gradient(-45deg, #000000, #161616, #1b1a1a, #23ff6c);
+    color: white; /* Texto claro */
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+}
+
+.dark-mode header{
+  background: white;
+}
+
+.dark-mode header a {
+  color: #000000;
+}
+
+.dark-mode .center{
+  color: white;
+}
+
+.dark-mode .toggle-mode{
+  color: #000000;
+}
